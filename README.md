@@ -1,4 +1,4 @@
-H E L L O ✨
+H E Y ✨
 
 I am Ari. Front end developer in the making 
 
