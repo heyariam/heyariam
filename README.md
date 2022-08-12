@@ -1,12 +1,9 @@
 H E Y ✨
 
-I am Ari. Front end developer in the making 
+I am Ari. Front end developer / UX desinger in the making
 
 ✨ Thirty, Coding and Thriving 💅🏻 ✨
 
-- 🔭 I’m currently working on my own portfolio
-- 🌱 I’m currently learning UX - UI
-
- HTML | CSS | Javascript | React 
+ HTML | CSS | Javascript | React | Swift
  🐥 
 
