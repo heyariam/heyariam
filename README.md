@@ -1,6 +1,6 @@
 H E Y ✨
 
-I am Ari. Front end developer / UX desinger in the making
+I am Ari. Front end developer, soon to be UX engineer
 
 ✨ Thirty, Coding and Thriving 💅🏻 ✨
 
