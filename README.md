@@ -2,9 +2,12 @@
 
 I am Ari. Front end developer, soon to be UX engineer.
 
- HTML | CSS | Javascript | React |  
+ <strong>My weapons:<br>
+ HTML | CSS | Javascript | React </strong> <br>
  
-currently learning 🐥 :
+Currently learning 🐥 :
+<br>
 UX design
+<br>
 Swift
 
