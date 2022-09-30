@@ -19,3 +19,9 @@ I am a Full-stack developer 💻 and UX designer 🎨<br>
 
 <br>
 
+<div>
+<h5>Contact me:</h5><br>
+  <a href="https://www.linkedin.com/in/arianna-avalos-a6a38b224">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
