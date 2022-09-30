@@ -4,7 +4,7 @@
 Hey there! I am Arianna 🐥<br>
 </h2> 
 <h5 align="center">
-I am a Front-end developer 💻 and UX designer 🎨<br>
+I am a Full-stack developer 💻 and UX designer 🎨<br>
 </h5> 
 
 
