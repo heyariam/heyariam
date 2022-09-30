@@ -7,10 +7,10 @@
   :woman_technologist: About Me :<br>
 
   - 🎨 I am a Front-end Developer and UX designer from Peru.
+  
+  - :rainbow: I am austitic.
 
   - :seedling: Exploring my Back-end skills.
-
-  - :zap: In my free time, I train dogs.
 
    <h5>My weapons:<br></h5>
 
