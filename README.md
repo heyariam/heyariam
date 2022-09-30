@@ -1,12 +1,19 @@
 
 
-<h2 align="center">
-Hey there! I am Arianna 🐥<br>
-</h2> 
-<h5 align="center">
-I am a Full-stack developer 💻 and UX designer 🎨<br>
-</h5> 
+<h3 align="center">
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"><br>
+Hey there! I am Arianna<br>
+</h3> 
 
+<br>
+:woman_technologist: About Me :<br>
+I am a Front-end Developer 🐥 and UX designer 🎨 from Peru.
+
+- :telescope: I’m currently studying UX design.
+
+- :seedling: Exploring my Back-end skills.
+
+- :zap: In my free time, I train dogs.
 
  <h5>My weapons:<br></h5>
 
@@ -20,7 +27,7 @@ I am a Full-stack developer 💻 and UX designer 🎨<br>
 <br>
 
 <div>
-<h5>Contact me:</h5><br>
+<h5>Reach me:</h5><br>
   <a href="https://www.linkedin.com/in/arianna-avalos-a6a38b224">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
