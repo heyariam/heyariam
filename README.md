@@ -8,7 +8,7 @@
 
   - 🎨 I am a Front-end Developer and UX designer from Peru.
   
-  - :rainbow: I am austitic.
+  - :rainbow: I am Austitic.
 
   - :seedling: Exploring my Back-end skills.
 
