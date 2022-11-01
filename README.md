@@ -4,11 +4,11 @@
   </h3> 
 
   <br>
-  :woman_technologist: About Me :<br>
+  :woman_technologist: About me :<br>
 
   - 🎨 I am a Front-end Developer and UX designer from Peru.
   
-  - :rainbow: I am Austitic.
+  - :rainbow: I am austitic.
 
   - :seedling: Exploring my Back-end skills.
 
