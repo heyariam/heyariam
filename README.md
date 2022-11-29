@@ -19,7 +19,7 @@
 
   <h5>Currently learning:<br></h5>
 
-  [![My Skills](https://skillicons.dev/icons?i=regex,swift,tailwind,php,mysql&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue,angular&theme=light)](https://skillicons.dev)
 
   <div>
   <h5>Reach me:</h5>
