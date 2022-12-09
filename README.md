@@ -1,6 +1,6 @@
   <h3 align="center">
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120"><br>
-  Hey there! I am Arianna :sparkles:<br>
+  Hey there! I am Ari :sparkles:<br>
   </h3> 
 
   <br>
