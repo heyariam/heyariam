@@ -6,7 +6,7 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 I am a Front-end Developer and UX designer from Peru.
+  - 🎨 I am a Front-end Developer and UX designer.
   
   - :rainbow: I am austitic.
 
