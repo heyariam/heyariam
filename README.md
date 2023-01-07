@@ -6,11 +6,13 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 I am a Front-end Developer and UX designer.
+  - 🎨 I am a Front-end Developer
   
   - :rainbow: I am austitic.
 
-  - :seedling: Exploring my Back-end skills.
+  - :seedling: UX design student.
+  
+  - :star: I want to become a UX engineer
 
    <h5>My weapons:<br></h5>
 
