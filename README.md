@@ -21,7 +21,7 @@
 
   <h5>Currently learning:<br></h5>
 
-  [![My Skills](https://skillicons.dev/icons?i=vue,vuetify&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue&theme=light)](https://skillicons.dev)
 
   <div>
   <h5>Reach me:</h5>
