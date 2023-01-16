@@ -13,6 +13,8 @@
   - :seedling: UX design student.
   
   - :star: I want to become a UX engineer
+  
+  - :book: Learning a little bit of back end.
 
    <h5>My weapons:<br></h5>
 
