@@ -7,8 +7,6 @@
   :woman_technologist: About me :<br>
 
   - 🎨 I am a Front-end Developer
-  
-  - :rainbow: I am austitic.
 
   - :seedling: UX design student.
   
@@ -25,9 +23,3 @@
 
   [![My Skills](https://skillicons.dev/icons?i=vue&theme=light)](https://skillicons.dev)
 
-  <div>
-  <h5>Reach me:</h5>
-    <a href="https://www.linkedin.com/in/arianna-avalos-a6a38b224">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-  </div>
