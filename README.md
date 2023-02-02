@@ -7,8 +7,6 @@
   :woman_technologist: About me :<br>
 
   - 🎨 I am a Front-end Developer
-
-  - :seedling: UX design student.
   
   - :star: I want to become a UX engineer
   
