@@ -8,7 +8,7 @@
 
   - 🎨 Front-end Developer / UX designer 
   
-  - :star: Goal: UX engineer 
+  - :star: Programmer on the spectrum 
   
   - :book: Learning a little bit of back end.
 
