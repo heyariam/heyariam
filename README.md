@@ -6,9 +6,9 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 I am a Front-end Developer
+  - 🎨 Front-end Developer / UX designer 
   
-  - :star: I want to become a UX engineer
+  - :star: Goal: UX engineer 
   
   - :book: Learning a little bit of back end.
 
