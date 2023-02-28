@@ -8,7 +8,7 @@
 
   - 🎨 Front-end Developer / UX designer 
   
-  - :star: Programmer on the spectrum 
+  - :star: I am autistic  :star:
   
   - :book: Learning a little bit of back end.
 
