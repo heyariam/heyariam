@@ -6,11 +6,11 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 Front-end Developer / UX designer 
+  - 🎨 Front-end Developer 
   
   - :star: I am autistic  :star:
   
-  - :book: Learning a little bit of back end.
+  - :book: Learning UX design
 
    <h5>My weapons:<br></h5>
 
