@@ -19,5 +19,5 @@
 
   <h5>Currently learning:<br></h5>
 
-  [![My Skills](https://skillicons.dev/icons?i=vue,angular,typescript&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vue,angular,typescript,webflow&theme=light)](https://skillicons.dev)
 
