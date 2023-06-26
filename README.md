@@ -14,10 +14,10 @@
 
    <h5>My weapons:<br></h5>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,emotion,styledcomponents,materialui,nodejs,figma,ps&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,emotion,styledcomponents,materialui,nodejs,figma,vue,angular,ps&theme=light)](https://skillicons.dev)
 
 
   <h5>Currently learning:<br></h5>
 
-  [![My Skills](https://skillicons.dev/icons?i=vue,angular,typescript,webflow&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=webflow&theme=light)](https://skillicons.dev)
 
