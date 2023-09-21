@@ -8,9 +8,10 @@
 
   - 🎨 Front-end Developer 
   
-  - :star: I am autistic  :star:
-  
-  - :book: Learning UX design
+  - :book: UI Designer
+    
+  - :star: Currently learning low code 
+
 
    <h5>My weapons:<br></h5>
 
