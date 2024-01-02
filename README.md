@@ -6,7 +6,7 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 Front-end Developer 
+  - 🎨 Front-end Developer // QA
   
   - :book: UI Designer
     
