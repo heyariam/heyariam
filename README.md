@@ -16,7 +16,7 @@
    <h5>My weapons:<br></h5>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,emotion,styledcomponents,materialui,nodejs,figma,vue,angular,ps&theme=light)](https://skillicons.dev)
-(https://skillicons.dev/icons?i=figma,ps&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,ps&theme=light)](https://skillicons.dev)
 
 
 
