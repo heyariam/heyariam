@@ -8,7 +8,7 @@
 
   - 🎨 Front-end Developer // QA
   
-  - :book: UI Designer
+  - :book: UI Designer student
     
   - :star: Currently learning low code 
 
