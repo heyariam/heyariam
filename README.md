@@ -6,9 +6,9 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 Front-end Developer // Webflow Developer // QA  
+  - 🎨 Front-end Developer // Webflow Developer // UX designer
   
-  - :book: UX Design student
+  - :book:  QA engineer student
     
   - :star: Currently learning low code 
 
