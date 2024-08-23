@@ -6,7 +6,7 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 Web Developer // Webflow Developer // UX designer
+  - 🎨 Junior Quality Engineer // Webflow Developer // UX designer
     
   - :star: Currently learning automation test
 
