@@ -6,9 +6,12 @@
   <br>
   :woman_technologist: About me :<br>
 
-  - 🎨 Software Engineer
-    
-  - :star: Engineering student
+  Hi 🙋🏻‍♀️, I’m a tech enthusiast focused on quality, user experience, and accessibility. I started as a developer and I’m currently studying software engineering to keep growing.
+  I have a hybrid profile between developer and tester, and I enjoy building inclusive solutions with both code and low-code tools.
+
+🌈 As an autistic person in tech, I value diversity and believe in the power of designing with empathy to create positive impact.
+
+Let’s connect and build something awesome together! 😊
    <h5>My weapons:<br></h5>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,emotion,styledcomponents,materialui,nodejs,vue,angular&theme=light)](https://skillicons.dev)<br>
