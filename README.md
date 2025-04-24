@@ -11,8 +11,8 @@
 
 🌈 As an autistic person in tech, I value diversity and believe in the power of designing with empathy to create positive impact.
 
-  Let’s connect and build something awesome together! 😊
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+  Let’s connect and build something awesome together! 😊 <br>
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arianna-avalos-a6a38b224/)
   
    <h5>My weapons:<br></h5>
 
