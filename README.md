@@ -20,5 +20,5 @@
 
   <h5>Currently learning:<br></h5>
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,wordpress&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=next,tailwind,wordpress&theme=light)](https://skillicons.dev)
 
